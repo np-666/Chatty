@@ -1,6 +1,6 @@
 # Chatty (A minimalistic, modern and real time chat app)
 
-### The website is hosted online. Click [here](https://chatty-g2b0.onrender.com) to visit the site.
+### The website is hosted online. Click [here](https://chatty-0dn2.onrender.com) to visit the site.
 
 ## Screenshot of the website:
 
